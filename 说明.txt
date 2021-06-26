@@ -1,0 +1,3 @@
+由于rddensity的命令被更新，导致在sent-down movement的研究中rddensity的图只能由特定版本画出。
+故在运行stata命令时，需要采用特定版本的rddensity
+该文件夹中提供当时运行时所用的ado/plus文件夹，先用此文件夹复制覆盖stata原ado/plus，再作图，即可还原rddensity原图
